@@ -4,24 +4,24 @@ Baseia-se em um site de apresentação de um carro, com expecificações e opini
 
 Estrutura de pastas:
 
-formativa1
-
-    |_src
+    formativa1
     
-        |_Images
+        |_src
         
-            |_Cadillac.jpg
+            |_Images
             
-            |_Cadillac.xcf
+                |_Cadillac.jpg
+                
+                |_Cadillac.xcf
+                
+            |_Videos
             
-        |_Videos
+        |_style
         
-    |_style
+            |_index_formativa.css
+            
+            |_projeto.css
+            
+    index_formativa.html
     
-        |_index_formativa.css
-        
-        |_projeto.css
-        
-index_formativa.html
-
-projeto.html
+    projeto.html
